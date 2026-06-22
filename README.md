@@ -16,7 +16,7 @@ O **PortfolioHUB** é a minha central profissional, projetada para documentar mi
 ### 📁 Histórico de Evolução (Bootcamp I)
 *   **Fase de Concepção Visual (Protótipo):** [Acesse meu piloto no Google Sites](https://sites.google.com/view/lelemnw/in%C3%ADcio)
 *   **Apresentação do Projeto Inicial:** [Slides de Planejamento do Escopo](https://docs.google.com/presentation/d/1IpvD6ks37WiQncaV2YtXLcRu7E6QzF9s-gHF25cFp7A/edit?usp=sharing)
-*   **Documentação Arquitetural de Suporte:** [Plano de Implantação e Diretrizes no Google Docs](https://docs.google.com/document/d/143VSIkjXnXUMDjT_3Ej1PIaGWVBTPzm3sr1_9MNryoo/edit?usp=sharing)
+*   **Currículo:** [Plano de Implantação e Diretrizes no Google Docs](https://docs.google.com/document/d/143VSIkjXnXUMDjT_3Ej1PIaGWVBTPzm3sr1_9MNryoo/edit?usp=sharing)
 
 
 ---
