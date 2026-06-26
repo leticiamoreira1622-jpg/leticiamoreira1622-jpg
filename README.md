@@ -39,4 +39,4 @@ Em minhas soluções e planejamentos de portfólio, adoto práticas estritas de 
 ### 📊 Estatísticas de Desenvolvedor
 
 ![Estatísticas do GitHub de Letícia](https://github-readme-stats.vercel.app/api?username=leticiamoreira1622-jpg&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamoreira1622-jpg&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamoreira1622-jpg&layout=compact&theme=radical&include_all_commits=true&count_private=true)
